@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gold;
+    background: rgb(75, 5, 5);
+}
+
+h1 {
+    color: gold;
+}
+
+a {
+    color: rgb(75, 5, 5);
+}
+
+p {
+    color: gold;
+    ;
+}
+
+.container {
+    font-family: 'Montserrat';
+    /* background: rgb(39, 3, 3); */
+}

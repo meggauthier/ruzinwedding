@@ -1,6 +1,17 @@
 body {
-    background-color: black;
+    background: rgb(75, 5, 5);
 }
+
 h1 {
-    color:gold;
+    color: gold;
+}
+
+a {
+    color: rgb(75, 5, 5);
+}
+
+.container {
+    font-family: 'Montserrat';
+    color: rgb(197, 173, 35);
+    background: rgb(75, 5, 5);
 }
