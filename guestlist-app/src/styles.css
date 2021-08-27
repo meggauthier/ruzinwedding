@@ -6,20 +6,18 @@ body {
     background: rgb(75, 5, 5);
 }
 
-h1 {
+h1,
+h2 {
     color: gold;
 }
 
-a {
-    color: rgb(75, 5, 5);
-}
-
+a,
+h3,
 p {
-    color: gold;
-    ;
+    color: rgb(75, 5, 5);
 }
 
 .container {
     font-family: 'Montserrat';
-    /* background: rgb(39, 3, 3); */
+    background: rgb(39, 3, 3);
 }
