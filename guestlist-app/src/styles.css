@@ -1,36 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 
 body {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat' !important;
     color: gold;
-    background-color: rgb(75, 5, 5);
+    background-color: rgb(75, 5, 5) !important;
 }
 
 h1,
 h2 {
-    color: gold;
+    color: gold !important;
 }
 
 a,
 h3,
 p {
-    color: rgb(75, 5, 5);
+    color: rgb(75, 5, 5) !important;
 }
 
 .container {
-    font-family: 'Montserrat';
-    background: rgb(39, 3, 3);
-}
-
-.row {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.row>[class*='col-'] {
-    display: flex;
-    flex-direction: column;
+    font-family: 'Montserrat' !important;
+    background: rgb(39, 3, 3) !important;
 }
