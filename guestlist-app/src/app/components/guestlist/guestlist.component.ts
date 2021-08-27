@@ -9,7 +9,6 @@ export class GuestlistComponent implements OnInit {
   guest: string = 'Guest Name';
   bride: boolean = false;
   groom: boolean = false;
-  total: BigInteger;
 
   constructor() { }
 
